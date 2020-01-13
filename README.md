@@ -38,8 +38,3 @@ The evaluation of the performance of each algorithm consists in a 2-step process
   * Many models can be added to the ones already present (others neural network architectures, decision trees, naive bayes classifiers, linear and logist classifiers, ...).
 
   * Performing dimensionality reduction (PCA, SVD) on the dataset might be beneficial in order to remove redundant information.
-  
-### ABOUT ME
-I am a Mechanical Engineer with a M.Sc. in Advanced Mechanical Design. Machine learning is both part of my job and part of my hobbies. Find me at:
-nicolascarbone92@outlook.com
-https://www.linkedin.com/in/nicolas-carbone/
